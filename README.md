@@ -18,3 +18,11 @@ The shell should not print the next prompt or take more input until all of these
 * Run the gcc command on the projectShellGroup5.c in terminal: gcc -W -o shell projectShellGroup5.c -pthread
 * Then run the file in the folder: ./shell
 * If you want to run shell in batch mode, run ./shell <name of file including extension>
+
+ ## Authors
+
+Contributors names and contact info
+
+  * [@Naida Fatic](https://github.com/NaidaFatic)
+  * [@Ajdin Pasic](https://github.com/ajdinpasic)
+  * Adis Mackovic
